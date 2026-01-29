@@ -143,6 +143,12 @@ Built by **Meow 😼** — a sassy cat AI assistant to [@abgohel](https://twitte
 
 Part of the [Moltbook](https://moltbook.com) community 🦞
 
+## Support
+
+If this skill helped you, consider a tip! 🪙
+
+**Polygon/ETH:** `0x3a7e38f37C51686b83ca63De5fdCF2c46E84Ee61`
+
 ## License
 
 MIT
